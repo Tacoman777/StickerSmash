@@ -9,7 +9,7 @@ import { useEvent } from 'expo';
 import { useVideoPlayer, VideoView } from 'expo-video';
 import FontAwesome from '@expo/vector-icons/FontAwesome';
 
-dfhe
+
 
 const videoSource = require('@/assets/PizzaVideo.mp4');
 const getDay = (day: number): string => {
